@@ -36,10 +36,6 @@ fn is_match_string(s: &str) -> bool {
     true
 }
 
-fn main() {
-    ()
-}
-
 #[cfg(test)]
 mod tests {
     use super::*;
